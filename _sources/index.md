@@ -5,7 +5,7 @@ Welcome to the open science guide for Transform to Open Science (TOPS), a NASA O
 - [F.14 Transform to OPen Science Training (TOPST)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init). Proposals Due 12/8!
 - Proposal [guidance](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/funding_opportunities.md)
-- Open Science [stories](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/Open-Science-Stories/readme.md)
+- Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
 - [Job Opportunities](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 
@@ -38,6 +38,10 @@ Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6
 **We hope you will join us and champion open science!**
 
 ## Contributors ✨
+
+Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people who have contributed to our [GitHub repository](https://github.com/nasa/Transform-to-Open-Science) ([emoji key](https://allcontributors.org/docs/en/emoji-key). Learn how you can become a contributor [here](/CONTRIBUTING.md).):
 
@@ -90,6 +94,10 @@ Thanks goes to these wonderful people who have contributed to our [GitHub reposi
       <td align="center"><a href="https://github.com/SALONICONTRACTOR"><img src="https://avatars.githubusercontent.com/u/90577825?v=4?s=100" width="100px;" alt="SALONICONTRACTOR"/><br /><sub><b>SALONICONTRACTOR</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=SALONICONTRACTOR" title="Code">💻</a></td>
       <td align="center"><a href="http://paigem.github.io"><img src="https://avatars.githubusercontent.com/u/26591824?v=4?s=100" width="100px;" alt="Paige Martin"/><br /><sub><b>Paige Martin</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=paigem" title="Code">💻</a> <a href="#ideas-paigem" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-paigem" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/peternewman"><img src="https://avatars.githubusercontent.com/u/6216436?v=4?s=100" width="100px;" alt="Peter Newman"/><br /><sub><b>Peter Newman</b></sub></a><br /><a href="#maintenance-peternewman" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://bsipocz.github.io/"><img src="https://avatars.githubusercontent.com/u/6788290?v=4?s=100" width="100px;" alt="Brigitta Sipőcz"/><br /><sub><b>Brigitta Sipőcz</b></sub></a><br /><a href="#maintenance-bsipocz" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="http://natashabatalha.github.io"><img src="https://avatars.githubusercontent.com/u/6554465?v=4?s=100" width="100px;" alt="Natasha Batalha"/><br /><sub><b>Natasha Batalha</b></sub></a><br /><a href="#content-natashabatalha" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
